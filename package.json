@@ -5,10 +5,10 @@
     "lerna": "^3.13.1"
   },
   "workspaces": [
-    "main/angular",
-    "main/angular/apps/*",
-    "main/angular/pages/*",
-    "main/angular/libs/*",
+    "main/angular-nx",
+    "main/angular-nx/apps/*",
+    "main/angular-nx/pages/*",
+    "main/angular-nx/libs/*",
     "main/console",
     "main/core",
     "main"
