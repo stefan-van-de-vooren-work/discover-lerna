@@ -1,8 +1,6 @@
 {
   "name": "main-root",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": true,
-  "groupId": "nl.vooren.stefan",
-  "dependencies": {
-  }
+  "groupId": "nl.vooren.stefan"
 }
