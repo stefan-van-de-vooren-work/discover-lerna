@@ -1,0 +1,16 @@
+{
+  "name": "root",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^3.13.1"
+  },
+  "workspaces": [
+    "main/angular",
+    "main/angular/apps/*",
+    "main/angular/pages/*",
+    "main/angular/libs/*",
+    "main/console",
+    "main/core",
+    "main"
+  ]
+}
